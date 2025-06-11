@@ -1,7 +1,8 @@
 # 🚀 DRF Basics Project
-
+<!-- 
 [![Stars](https://img.shields.io/github/stars/Dhananjay66/DRF-Project)](https://github.com/Dhananjay66/DRF-Project/stargazers)
 [![Forks](https://img.shields.io/github/forks/Dhananjay66/DRF-Project)](https://github.com/Dhananjay66/DRF-Project/fork)
+ -->
 
 A beginner-friendly project to help you learn and understand the fundamentals of **Django REST Framework (DRF)** — covering everything from basic APIs to serializers, views, authentication, and more.
 
@@ -148,7 +149,7 @@ python manage.py migrate
 
 ---
 
-## ❤️ Contributing
+## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/Dhananjay66/DRF-Project/issues).
