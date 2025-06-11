@@ -1,4 +1,4 @@
-# 🚀 DRF Basics Course
+# 🚀 DRF Basics Project
 
 [![Stars](https://img.shields.io/github/stars/Dhananjay66/DRF-Project)](https://github.com/Dhananjay66/DRF-Project/stargazers)
 [![Forks](https://img.shields.io/github/forks/Dhananjay66/DRF-Project)](https://github.com/Dhananjay66/DRF-Project/fork)
