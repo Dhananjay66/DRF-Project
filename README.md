@@ -165,3 +165,10 @@ Feel free to check the [issues page](https://github.com/Dhananjay66/DRF-Project/
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 💬 Contact
+
+For any query or collaboration:  
+📧 [pratapsinghd665@gmail.com]
