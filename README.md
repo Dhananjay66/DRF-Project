@@ -77,13 +77,13 @@ python manage.py runserver
 
 ## 📦 API Endpoints
 
-| Method | Endpoint               | Description                 |
-| ------ | ---------------------- | --------------------------- |
-| GET    | `/api/employees/`      | List all employees          |
-| POST   | `/api/employees/`      | Create a new employee       |
-| GET    | `/api/employees/{id}/` | Retrieve a single employee  |
-| PUT    | `/api/employees/{id}/` | Update an existing employee |
-| DELETE | `/api/employees/{id}/` | Delete an employee          |
+| Method | Endpoint                  | Description                 |
+| ------ | ------------------------- | --------------------------- |
+| GET    | `/api/v1/employees/`      | List all employees          |
+| POST   | `/api/v1/employees/`      | Create a new employee       |
+| GET    | `/api/v1/employees/{id}/` | Retrieve a single employee  |
+| PUT    | `/api/v1/employees/{id}/` | Update an existing employee |
+| DELETE | `/api/v1/employees/{id}/` | Delete an employee          |
 
 > 🔐 **Authentication required** for certain routes (if implemented).
 
