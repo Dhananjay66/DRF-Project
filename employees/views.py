@@ -1,4 +1,3 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
-def home(request):
-    return HttpResponse("✅ Employees API is working!")
+# Create your views here.
