@@ -174,7 +174,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 💬 Contact
+## 📧 Contact
 
 For any query or collaboration:  
 📧 [pratapsinghd665@gmail.com]
