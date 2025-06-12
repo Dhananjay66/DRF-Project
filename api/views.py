@@ -11,6 +11,9 @@ from django.http import Http404
 from rest_framework import mixins, generics, viewsets
 from blogs.models import Blog, Comment
 from blogs.serializers import BlogSerializer, CommentSerializer
+from .paginations import CustomPagination
+
+
 
 @api_view(['GET', 'POST'])
 def studentsView(request):
@@ -163,6 +166,7 @@ class EmployeeDetail(generics.RetrieveUpdateDestroyAPIView):
 class EmployeeViewSet(viewsets.ModelViewSet):
     queryset = Employee.objects.all()
     serializer_class = EmployeeSerializer
+    pagination_class = CustomPagination
 
 class BlogsView(generics.ListCreateAPIView):
     queryset = Blog.objects.all()
