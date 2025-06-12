@@ -1,5 +1,5 @@
 import django_filters
-from ..employees.models import Employee
+from employees.models import Employee
 
 
 
