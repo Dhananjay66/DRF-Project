@@ -3,7 +3,7 @@ services:
     name: drf-api-service
     env: python
     buildCommand: ""
-    startCommand: gunicorn Django_Rest_Main.wsgi:application
+    startCommand: gunicorn DRF_Project.wsgi:application
     envVars:
       - key: DJANGO_SETTINGS_MODULE
         value: Django_Rest_Main.settings
