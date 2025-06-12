@@ -153,7 +153,7 @@ python manage.py migrate
 
 We love contributions from the community!
 
-- 🐞 Found a bug? [Open an issue](https://github.com/your-repo/issues).
+- 🐞 Found a bug? [Open an issue](https://github.com/Dhananjay66/DRF-Project/issues).
 - 🚀 Want to add a new feature? Fork the repo and submit a PR.
 - 📄 Make sure to update documentation if needed.
 - ✅ Please test your code before submitting.
