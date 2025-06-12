@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: drf-api-service
+    name: drf-api
     env: python
     buildCommand: |
       pip install -r requirements.txt
