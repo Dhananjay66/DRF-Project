@@ -23,10 +23,9 @@ def home(request):
     <ul>
         <li><a href="/admin/">Admin Panel</a></li>
         <li><a href="/api/">API</a></li>
-        <li><a href="/students/">Students API</a></li>
-        <li><a href="/employees/">Employees API</a></li>
-        <li><a href="/blogs/">Blogs API</a></li>
-        <li><a href="/docs/">API Docs</a></li>
+        <li><a href="/api/students/">Students API</a></li>
+        <li><a href="/api/employees/">Employees API</a></li>
+        <li><a href="/api/blogs/">Blogs API</a></li>
     </ul>
     """
     return HttpResponse(html)
@@ -35,8 +34,4 @@ urlpatterns = [
     path('', home),
     path('admin/', admin.site.urls),
     path('api/', include('api.urls')),
-    path('students/', include('students.urls')),
-    path('employees/', include('employees.urls')),
-    path('blogs/', include('blogs.urls')),
-    path('docs/', include_docs_urls(title='API Documentation')),
 ]
