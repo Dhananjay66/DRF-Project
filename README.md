@@ -9,9 +9,7 @@ A beginner-friendly project to help you learn and understand the fundamentals of
 - 🔹 Django REST Framework setup & configuration  
 - 🔹 API views: `APIView`, `ViewSet`, `GenericAPIView`  
 - 🔹 Serializers & ModelSerializers  
-- 🔹 CRUD operations (Create, Read, Update, Delete)  
-- 🔹 Authentication (Token/JWT)  
-- 🔹 Permissions & throttling  
+- 🔹 CRUD operations (Create, Read, Update, Delete)
 - 🔹 Pagination & filtering
 
 ---
