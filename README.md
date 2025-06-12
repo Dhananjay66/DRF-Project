@@ -149,7 +149,7 @@ python manage.py migrate
 
 ---
 
-## 🤝 Contributing
+## ❤️ Contributing
 
 Contributions, issues and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/Dhananjay66/DRF-Project/issues).
